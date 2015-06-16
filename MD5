@@ -1,0 +1,17 @@
+46b4aa10d83903f6179e309ba7cb969b *DESCRIPTION
+94d69e14377e353b4caa57a1b3a2c2e4 *NAMESPACE
+05af3e4993d2d9163a4d2cb8eea0a98f *R/CommT.anova.R
+88d2ea43a170128f2d97d321b0dce46f *R/CommT.kfdist.R
+2dae604144df6b5bcde6252235c225c0 *R/CommT.legendpos.R
+f0b69828021f6cb1cb776194c1ace179 *R/CommT.plotcolors.R
+13d3b5f65d4992dc638cb07298ba3342 *R/CommT.viz.R
+658c2370cebd8e95cb1982bc84d2b48a *R/sourceDir.R
+1587a6e59dcd57aebcccd9cf0c9baf0f *data/post_gt_distrs_BEAST.rda
+2a581d2a7322d46cdbc44d9e0944cfa8 *data/post_gt_distrs_starBEAST.rda
+69c2c41dd4c9de2a13c4b72ad6e8fb13 *man/CommT-package.Rd
+d78a8ab1802970ef8c6c0dd2839dab88 *man/CommT.anova.Rd
+9a69f45bd93a8a66fe9bd4071be55112 *man/CommT.kfdist.Rd
+e271e3e3fef0f5af278bdb11940030e3 *man/CommT.legendpos.Rd
+1f566add783d3590e905dd080b034bb5 *man/CommT.viz.Rd
+5c1485cdb07d2e52ea9808e2a10ed2af *man/post_gt_distrs_BEAST.Rd
+ade432113bc7ce8b98b18641f6e963e1 *man/post_gt_distrs_starBEAST.Rd
